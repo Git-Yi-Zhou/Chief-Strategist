@@ -1,0 +1,14 @@
+{
+  "name": "chief-strategist",
+  "displayName": "Chief Strategist 首席谋士",
+  "version": "0.1.0",
+  "description": "模仿 DeepThink 范式的单旗舰模型“一人内阁”深度战略推演插件。由主力模型化身首席谋士（Strategist），借力 Antigravity 原生 Swarm 动态编排正交认知算子、隔离分支 PoC 实测与思维树热分叉（fork），以算力换取更广、更深、更远、更有新意的破局裁断。",
+  "author": "Git-Yi-Zhou",
+  "repository": "https://github.com/Git-Yi-Zhou/Chief-Strategist",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "首席谋士：对当前项目的核心架构瓶颈做一次不计成本的破局推演，找出反直觉的最优演进路线",
+    "开谋士（一人内阁）：围绕这个复杂技术选型编排正交算子与隔离分支 PoC 实测，给出独断策论",
+    "/strategist 站在 18 个月后的事前验尸视角，推演这套方案的潜在死因与破壁奇兵"
+  ]
+}
